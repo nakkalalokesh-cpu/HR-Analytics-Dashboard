@@ -26,7 +26,7 @@ An interactive HR Analytics Dashboard built using Power BI to analyze employee d
 - Male employees represent 50.81% of the workforce
 
 ## Dashboard Preview
-![HR Analytics Dashboard](Dashboard_Screenshot_png.png)
+![HR Analytics Dashboard](./Dashboard_Screenshot_png.png)
 
 ## Presented By
-**N Lokesh** — B.Tech AI & Data Science | Data Analyst
+**N Lokesh** 
